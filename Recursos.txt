@@ -1,0 +1,17 @@
+https://www.themachinelearners.com/k-means/#Visualizacioacuten
+
+https://towardsdatascience.com/interpretable-k-means-clusters-feature-importances-7e516eeb8d3c
+
+https://realpython.com/k-means-clustering-python/#evaluating-clustering-performance-using-advanced-techniques
+
+
+https://towardsdatascience.com/customer-segmentation-in-python-9c15acf6f945
+
+https://medium.com/@ugursavci/step-by-step-customer-segmentation-using-k-means-and-pca-in-python-5733822295b6
+
+https://python.plainenglish.io/lesson-7-customer-behavior-customer-groups-e5fd8a308d9d
+
+https://acelera.tech/2020/01/07/machine-learning-segmentacion-de-clientes-usando-ml-net/
+
+https://github.com/dotnet/machinelearning-samples/tree/main/samples/csharp/getting-started/Clustering_CustomerSegmentation
+
